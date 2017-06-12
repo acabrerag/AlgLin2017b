@@ -15,7 +15,7 @@ Repositorio para el curso de Algebra Lineal.
 + Utilizaremos un orden diferente al propuesto.
 
 ### Materiales:
-+ Notas: Apuntes [aquí­](/Notas/Temario.pdf)
++ Notas: Notas de la Dra. Beatriz Rumbos y el Dr. Miguel Ángel Motas [aquí­](/Notas/libro completo.pdf)
 
 ### Evaluación:
 + Examen Parcial 1 *escrito*:30% (Martes 4 de julio)
