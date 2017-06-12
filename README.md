@@ -1,32 +1,29 @@
-### Informaci√≥n General.
+### InformaciÛn General.
 + Profesor: Alain Antonio Cabrera Gonzalez
-+ Correo electr√≥nico: acabreraglz@gmail.com
++ Correo electrÛnico: alain.cabrera@itam.com
 
-### Canales de Comunicaci√≥n:
-+ Utilizaremos [Slack](https://slack.com/) como medio oficial de comunicaci√≥n.
+### Canales de ComunicaciÛn:
++ Utilizaremos [Slack](https://slack.com/) como medio oficial de comunicaciÛn.
 + Slack es una plataforma para comunicaciones en equipo.
-+ Por este medio se dar√°n avisos oficiales y se podr√° utilizar como foro para dudas, etc.
-+ Enviar√© una invitaci√≥n a su mail personal.
-+ Podr√°n acceder a Slack desde cualquier navegador, adem√°s de las distintas Apps que existen tanto para laptop como para smartphone.
++ Por este medio se dar·n avisos oficiales y se utilizar· como foro para dudas, etc.
++ EnviarÈ una invitaciÛn a su mail escolar.
++ Podr·n acceder a Slack desde cualquier navegador, adem·s de las distintas Apps que existen tanto para laptop como para smartphone.
 
 ### Contenido:
-+ El temario oficial lo podemos encontrar [aqu√≠](Temario.pdf)
-### Evaluaci√≥n:
++ El temario oficial lo podemos encontrar [aquÌ≠](Temario.pdf)
+### EvaluaciÛn:
 + Examen Parcial 1 *escrito*:30% (Martes 4 de julio)
-+ Examen Parcial 2 *oral*: 30% (Martes 18 de julio)
-+ Examen Final *acumulativo*: 30% (por definir)
-+ Tareas: 10%
++ Examen Parcial 2 *escrito*: 30% (Martes 18 de julio)
++ Examen Final *acumulativo*: 40% (por definir)
 
 ### Puntos extra:
-+ Equivaldr√°n al 10% sumado directamente a la calificaci√≥n final, es decir, pueden sacar 11 de calificaci√≥n. 
-+ Se realizar√°n preguntas junto a los ex√°menes parciales.
-+ La tem√°tica de las preguntas ser√° definida en clase.
++ Equivaldr·n a un punto ( de diez )sumado directamente a la calificaciÛn final, es decir, pueden sacar 11 de calificaciÛn. Para utilizarlos puntos extras es necesario tener una calificaciÛn aprobatoria.
 
 ### Reglas generales:
 + No copiar. 
-+ No hay ex√°menes especiales ni reposiciones, salvo casos de fuerza mayor (hospitalizaciones, etc.)
-+ Nadie aprueba por arte de magia, se requiere esfuerzo constante; i.e. un final de 10 no aprueba autom√°ticamente la materia si el promedio dice otra cosa.
++ No hay ex·menes especiales ni reposiciones, salvo casos de fuerza mayor (hospitalizaciones, etc.).
++ Para presentar el examen final se necesita tener un promedio aprobatorio en los ex·menes parciales.
 
 ### Referencias
-+ *Geometr√≠a Anal√≠tica Moderna*,Wooton, W., Beckenbach, E.F., Fleming, F.J.Publicaciones Cultural, S.A. de C.V., 3a. edici√≥n, 1985.
-+ *Geometr√≠a Anal√≠tica*,Lehmann, Charles H. (tr. Rafael Garc√≠a D√≠az) Editorial Limusa, M√©xico, 2011.
++ Introduction to linear algebra, Strang, Gilbert.Wellesley, MA: Wellesley-Cambridge Press, 2016.
++ The manga guide to linear algebra,Takahashi, S.,Inoue, I. No Starch Press, 2012.
