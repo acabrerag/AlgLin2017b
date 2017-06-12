@@ -1,4 +1,5 @@
 Repositorio para el curso de Algebra Lineal.
+
 ### Información General.
 + Profesor: Alain Antonio Cabrera Gonzalez
 + Correo electrónico: alain.cabrera@itam.com
@@ -13,6 +14,7 @@ Repositorio para el curso de Algebra Lineal.
 ### Contenido:
 + El temario oficial lo podemos encontrar [aquí­](Temario.pdf)
 + Utilizaremos un orden diferente al propuesto.
++ Introducción al uso de Matlab.
 
 ### Materiales:
 + Notas: Notas de la Dra. Beatriz Rumbos y el Dr. Miguel Ángel Mota [aquí­](/Notas/libro.pdf)
