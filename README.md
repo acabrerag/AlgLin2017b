@@ -15,8 +15,8 @@ Repositorio para el curso de Algebra Lineal.
 + Utilizaremos un orden diferente al propuesto.
 
 ### Materiales:
-+ Notas: Notas de la Dra. Beatriz Rumbos y el Dr. Miguel Ángel Motas [aquí­](/Notas/libro completo.pdf)
-
++ Notas: Notas de la Dra. Beatriz Rumbos y el Dr. Miguel Ángel Motas [aquí­](/Notas/libro.pdf)
++ Códigos: Tutoriales de Matlab del profesor [aquí­](/Matlab)
 ### Evaluación:
 + Examen Parcial 1 *escrito*:30% (Martes 4 de julio)
 + Examen Parcial 2 *escrito*: 30% (Martes 18 de julio)
